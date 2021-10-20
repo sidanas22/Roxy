@@ -20,13 +20,13 @@ Checksum Validity Check
 Sequence and acknowledgment numbers will be based on the number of bytes transferred
 Fix timeout period
 
-##Set UP:
+## Set up:
 
-All the code was run using python 3.6 but should work well with any othere cersion too.
+All the code was run using python 3.6 but should work well with any othere version too. 
 
 
-## To Start
-
+## Video Demo and Explanation:
+Google Drive Link: https://drive.google.com/file/d/1GBK5BT3ORQcyVordl6QaHIruVZ2RP5qO/view?usp=sharing
 
 
 ## Reference
