@@ -10,15 +10,17 @@ multiple web clients and web servers, concurrently.
 3. Caching of popular content using at least two scheduling algorithms.
 4. Content filtering (filtering rules should be configurable via admin console).
 
-Also contained in this repo is a further iteration of the ideas from Roxy where reliable data transfer protocol used by TCP has been developed from scratch
+Also contained in this repo is a further iteration of the ideas from Roxy where reliable data transfer (RDT) protocol used by TCP has been developed from scratch.
 
-Features implemented:
-RDT ACK
-RDT Timeout
-RDT Duplication Check
-Checksum Validity Check
-Sequence and acknowledgment numbers will be based on the number of bytes transferred
-Fix timeout period
+# Features implemented:
+<ul>
+<li>RDT ACK</li>
+<li>RDT Timeout</li>
+<li>RDT Duplication Check</li>
+<li>Checksum Validity Check</li>
+<li>Sequence and acknowledgment numbers will be based on the number of bytes transferred</li>
+<li>Fix timeout period</li>
+</ul>
 
 ## Set up:
 
