@@ -1,6 +1,5 @@
 ## Roxy
 
-This project is implementation for the purposes of creating a protocol over TCP that, (a) does TCP pipelining at sender and receiver where multiple packet are in flight, (b) Sequence and acknowledgement numbers will be based on number of bytes transferred, (c) Fast re-transmit functionality
 
 This project implements a bare-bones web proxy called Roxy that passes requests and data between
 multiple web clients and web servers, concurrently.
